@@ -5,7 +5,7 @@
 ###
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ayush+Sahane!+;Software+Developer!+;Cyber+Security+Analyst!+;Data+Analyst!+;Software+Tester!+;SCRUM+Master!"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ayush+Sahane!+;Software+Developer!+;Cyber+Security+Analyst!+;Data+Scientist!+;Machine+Learning+Engineer!+;Data+Analyst!+;Software+Tester!+;SCRUM+Master!"/>
 </h1>
 <h1 align="center">
 <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Jersey+10+Charted&size=49&duration=5&pause=10000&color=87CEEB&background=EEF9FF00&random=false&width=650&height=70&lines=A+Passionate+Developer+From+India"/>
@@ -15,13 +15,13 @@
 
 <p align="left"> </p>
 
-- 🌱 I’m currently learning **HTML, CSS5, Javascript, MongoDB, ExpressJS, ReactJS, NodeJS & Cybersecurity Courses.**
+- 🌱 **I’m Actively Pursuing a Course In Data Science and Machine Learning To Deepen My Expertise & practical skills.**
 
-- 💬 Ask me about **Web Development, Cybersecurity & Cloud Computing.**
+- 💬 **Ask Me About: Data Science, Data Analytics, Machine Learning, Artificial intelligence.**
 
-- 📫 How to reach me **sahaneayush27@gmail.com**
+- 📫 **How To Reach Me: sahaneayush27@gmail.com**
 
-- ⚡ Speciality **I'm An Adaptive Learner.**
+- ⚡ **Proficient In: Data Science, Machine Learning, Data Analytics, and Artificial Intelligence, delivering impactful insights and solutions.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
