@@ -15,7 +15,7 @@
 
 <p align="left"> </p>
 
-- 🌱 **I’m Actively Pursuing a Course In Data Science and Machine Learning To Deepen My Expertise & practical skills.**
+- 🌱 **I’m Currently Doing Masters of Computer Science at Adelaide University & at the same time i'm Teaching Assistant for the course Software Development Practice for Bachelor Students at Adelaide University.**
 
 - 💬 **Ask Me About: Data Science, Data Analytics, Machine Learning, Artificial intelligence.**
 
