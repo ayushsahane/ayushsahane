@@ -8,18 +8,18 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ayush+Sahane!+;Software+Developer!+;Cyber+Security+Analyst!+;Data+Scientist!+;Machine+Learning+Engineer!+;Data+Analyst!+;Software+Tester!+;SCRUM+Master!"/>
 </h1>
 <h1 align="center">
-<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Jersey+10+Charted&size=49&duration=5&pause=10000&color=87CEEB&background=EEF9FF00&random=false&width=650&height=70&lines=A+Passionate+Engineer+From+India"/>
+<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Jersey+10+Charted&size=49&duration=5&pause=10000&color=87CEEB&background=EEF9FF00&random=false&width=650&height=70&lines=A+Passionate+Engineer+From+Australia"/>
 </h1>
 
 <img align="right" alt="Coding" width="400" height=auto src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/41f42ffb8825a7c57ff4810593e5ba5d-1677459265/Light%20bulb/do-an-animated-pixel-art-banner-for-youtube-twitch-a-videogame-etc.gif"/>
 
 <p align="left"> </p>
 
-- 🌱 **I’m Currently Doing Masters of Computer Science at Adelaide University & at the same time i'm Teaching Assistant for the course Software Development Practice for Bachelor Students at Adelaide University.**
+- 🌱 **I’m Currently Doing Masters of Computer Science at Adelaide University & at the same time i'm Teaching Assistant for the course Software Development Practice at Adelaide University.**
 
 - 💬 **Ask Me About: Data Science, Data Analytics, Machine Learning, Artificial intelligence.**
 
-- 📫 **How To Reach Me: sahaneayush27@gmail.com**
+- 📫 **How To Reach Me: ayush9univ@gmail.com**
 
 - ⚡ **Proficient In: Data Science, Machine Learning, Data Analytics, and Artificial Intelligence, delivering impactful insights and solutions.**
 
