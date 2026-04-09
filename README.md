@@ -7,10 +7,10 @@
 </h1>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+10+Charted&size=42&center=true&vCenter=true&width=1000&height=60&duration=3500&pause=1000&color=87CEEB&lines=A+Passionate+Engineer+From+India+%F0%9F%87%AE%F0%9F%87%B3+Australia+%F0%9F%87%A6%F0%9F%87%BA" alt="Tagline" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+10+Charted&size=42&center=true&vCenter=true&width=1000&height=60&duration=3500&pause=1000&color=87CEEB&lines=A+Passionate+Engineer+From+India+%F0%9F%87%AE%F0%9F%87%B3+&Australia+%F0%9F%87%A6%F0%9F%87%BA" alt="Tagline" />
 </h2>
 
-<img align="right" alt="Coding" width="380" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/41f42ffb8825a7c57ff4810593e5ba5d-1677459265/Light%20bulb/do-an-animated-pixel-art-banner-for-youtube-twitch-a-videogame-etc.gif"/>
+<img align="right" alt="Coding" width="360" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/v1/attachments/delivery/asset/41f42ffb8825a7c57ff4810593e5ba5d-1677459265/Light%20bulb/do-an-animated-pixel-art-banner-for-youtube-twitch-a-videogame-etc.gif"/>
 
 ### 👨‍💻 About Me
 
@@ -49,7 +49,7 @@
 ### 👀 Profile Views
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayushsahane&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ayushsahane&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views badge" />
 </div>
 
 ---
@@ -63,10 +63,6 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ayushsahane&theme=tokyonight" height="170" alt="streak graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushsahane&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="trophy graph" />
 </div>
 
 <div align="center">
